@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="E2DDF9FD-6DB2-FA37-8DC4-D214BCD6FF37" mainViewID="1A4FDF8D-E705-A122-7D87-5DE477963586">
+<createdBy>DACOMP</createdBy>
+<createdTime>2014-04-09 19:11:06 UTC</createdTime>
+<generatorID>Generado por el Usuario</generatorID>
+<ownerDesignName>modelo</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>

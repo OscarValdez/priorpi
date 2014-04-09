@@ -1,0 +1,9 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="modelo" id="39D690EB-1678-F7DD-8708-6880A0FE0C1B" version="3.5">
+<createdBy>DACOMP</createdBy>
+<createdTime>2014-04-09 19:11:06 UTC</createdTime>
+<generatorID>Generado por el Usuario</generatorID>
+<ownerDesignName>modelo</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>39D690EB-1678-F7DD-8708-6880A0FE0C1B</designId>
+</OSDM_Design>
